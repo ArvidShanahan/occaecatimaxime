@@ -1,0 +1,22 @@
+{
+  "name": "occaecatimaxime",
+  "version": "1.0.0",
+  "description": "Array.prototype.find ES6 polyfill for ES5 versions and lower.",
+  "main": "find.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ArvidShanahan/occaecatimaxime.git"
+  },
+  "keywords": [
+    "array",
+    "qui",
+    "js",
+    "ES6",
+    "similique"
+  ],
+  "author": "KamrenHeathcote",
+  "license": "MIT",
+  "devDependencies": {
+    "ava": "^0.14.0"
+  }
+}
